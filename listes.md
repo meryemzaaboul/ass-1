@@ -540,4 +540,5 @@ def intersection(l1,l2):
         l3.append(e)
   return l3
 print(intersection(l1,l2))
+```
 3. [Union de listes](ex4.3)
