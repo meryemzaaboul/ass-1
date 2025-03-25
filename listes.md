@@ -545,6 +545,11 @@ print(intersection(l1,l2))
 
 
    exercice 1 :
+
+
+
+
+
    def verifier(l):
   for i in range(len(l)-1):
     if l[i]>l[i+1]:
@@ -555,6 +560,10 @@ verifier([0, 5, 8, 8, 9])
 
 
 exercice 2 :
+
+
+
+
 def dep1(l):
   d=dict()
   for i in l:
@@ -588,6 +597,9 @@ print("sol 3",dep3(['A', 'A', 'A', 'B', 'C', 'B', 'C', 'B', 'C', 'B']))
 
 
 exercice 3 :
+
+
+
 def aff(dessin):
   for ligne in dessin:
     for col in ligne:
